@@ -1,0 +1,11 @@
+﻿server/.idea
+server/Persistence/obj
+server/Mart.Web/obj
+server/Persistence/bin
+*/obj
+server/Mart.Identity/obj
+server/Application/obj
+server/Domain/bin
+server/Domain/obj
+server/Infrastructure/obj
+server/Mart.Identity/bin
